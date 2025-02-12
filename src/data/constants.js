@@ -201,7 +201,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to check the data or track selling product of fitness cheching etc...",
     image:
-      "https://private-user-images.githubusercontent.com/195744210/408095959-2b69d277-9ea1-4804-a211-781cc91cf48f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgzNjU0ODAsIm5iZiI6MTczODM2NTE4MCwicGF0aCI6Ii8xOTU3NDQyMTAvNDA4MDk1OTU5LTJiNjlkMjc3LTllYTEtNDgwNC1hMjExLTc4MWNjOTFjZjQ4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEzMVQyMzEzMDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYzZkYmEzOGQxNjg2OWM0MWFhNDc3ODMyNDA3ZjQxNTM4OTA5M2M5NDAxYjY0OTBkNGI3MTViNDI2NWRkNzI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ml1nZToS0ar4NDU49zh7KvN9syQCFpx-8zt3gcreRgw",
+      "https://github.com/Paul-10-singh/data-dashboard/blob/main/Screenshot%202025-01-30%20163757.png?raw=true",
     tags: [
       "HTML",
       "CSS",
