@@ -61,7 +61,7 @@ export const skills = [
     ],
   },
   {
-    title: "Framework,Designing",
+    title: "Framework,Design",
     skills: [
       {
         name: "Bootstrap",
