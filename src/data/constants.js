@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Paul-10-singh",
   resume:
-    "https://drive.google.com/file/d/1F783g9JteeEU6u-jw91vV5FfAJj7k5dt/view?usp=sharing",
+    "https://drive.google.com/file/d/16L3kCKJ6Xgi6zz010GR0zdvZkTtrPhDE/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/paul-tensingh-a-8191b0349/",
   twitter: "https://app.netlify.com/user/settings#profile",
   insta: "https://www.instagram.com/paul._.2903?igsh=MWJpaHpjZ3F4dHd6bw==",
